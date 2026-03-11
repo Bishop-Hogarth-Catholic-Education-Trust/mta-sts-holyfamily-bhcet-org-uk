@@ -1,6 +1,0 @@
-version: STSv1
-mode: enforce
-mx: d237191.a.ess.uk.barracudanetworks.com
-mx: d237191.b.ess.uk.barracudanetworks.com
-mx: holyfamily-bhcet-org-uk.mail.protection.outlook.com
-max_age: 86400
